@@ -4,7 +4,7 @@
 sudo su
 ```
 ```
-bash rdp.sh
+bash <(curl -s https://raw.githubusercontent.com/JoyelTheDev/WindowRDP/refs/heads/main/rdp.sh)
 ```
 ```
 curl -fsSL https://tailscale.com/install.sh | sh
