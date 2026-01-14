@@ -3,6 +3,7 @@
 ```
 apt update -y && apt upgrade -y
 ```
+```
 sudo su
 ```
 ```
